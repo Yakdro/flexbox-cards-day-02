@@ -1,5 +1,5 @@
 * {
-  margin: 0;
+  margin: 02;
   padding: 0;
   box-sizing: border-box;
 }
@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
 
 .card-container {
